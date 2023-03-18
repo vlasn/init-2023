@@ -29,3 +29,11 @@
 - Teisel lehel peaks olema vähemalt kolm visuaalselt sarnast sisublokki, igaühes pisike pilt teksti kõrval
 - Kolmandal lehel peaks olema kontaktisikute pildid ja kontaktandmed (meiliaadress, telefoninumber)
   - boonuspunktid kui telefoninumbri- ja meililingid sihtotstarbeliselt töötavad
+
+Bonus round:
+- Kõigil linkidel võiks olla `hover/visited` stiilid
+- Navbar võiks ekraani ülemisse serva jääda kui alla scrollida
+- Kõik lehel kasutatavad värvid võiksid olla defineeritud kasutades `css variable`-sid - 0 manuaalset hex-värvi ülejäänud stylesheetis
+- Kitsamatel ekraanidel (mobiil, tablet?) võiks navbar olla "hamburger menu" stiilis - tavaliselt peidus, lahti ainult siis kui menüünupule klikkida
+- Lehe layout võiks kasutada CSS Grid-i, `float` stiilireeglite arv võiks olla 0 :)
+- Leht võiks footeris kuvada embedded Google Mapsi kaarti asukohaga
