@@ -37,3 +37,6 @@ Bonus round:
 - Kitsamatel ekraanidel (mobiil, tablet?) võiks navbar olla "hamburger menu" stiilis - tavaliselt peidus, lahti ainult siis kui menüünupule klikkida
 - Lehe layout võiks kasutada CSS Grid-i, `float` stiilireeglite arv võiks olla 0 :)
 - Leht võiks footeris kuvada embedded Google Mapsi kaarti asukohaga
+
+Bonus bonus round:
+- Pordi veebisait oma lemmikframework-i
