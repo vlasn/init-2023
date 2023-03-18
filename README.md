@@ -22,8 +22,8 @@
 	- Lingid nimekirja ja tööle
 	- Menüüriba välimus
 - "Hero" avalehel - suur pilt mille peal on tekst/pealkiri
-	- ....
-> [ ! ] Pildi saab teksti taha kui pilt teksti ümber olevale `div`-ile `background-image`'ks panna
+	> [ ! ] Pildi saab teksti taha kui pilt teksti ümber olevale `div`-ile `background-image`'ks panna
+
 - Avalehel võiks olla natuke taustainfot firma/teenuse kohta.
 - Kõigil lehtedel võiks olla `footer` meiliaadressi ja telefoninumbriga
 - Teisel lehel peaks olema vähemalt kolm visuaalselt sarnast sisublokki, igaühes pisike pilt teksti kõrval
