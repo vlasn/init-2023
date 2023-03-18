@@ -10,6 +10,7 @@
 [HTML](http://cheatsheets.shecodes.io/html)
 [CSS](http://cheatsheets.shecodes.io/css)
 [Värvid](https://coolors.co)
+[Codesandbox](https://codesandbox.io/s/github/codesandbox-app/static-template/tree/master/)
 
 ### Nõuded
 - Kolm lehte (avaleht peaks ASAP valmis saama) - avaleht, teenused/meist, kontakt
